@@ -1,115 +1,102 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>NAGIREDDY RAMESH KUMAR REDDY — Portfolio</title>
-  <meta name="description" content="Portfolio of NAGIREDDY RAMESH KUMAR REDDY: Python developer, projects, skills, education, and contact." />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          fontFamily: { sans: ['Inter', 'ui-sans-serif', 'system-ui'] },
-          colors: { brand: { 600: '#2563eb', 700: '#1d4ed8' } },
-          boxShadow: { soft: '0 10px 25px -10px rgba(0,0,0,0.15)' }
-        }
-      },
-      darkMode: 'class'
-    }
-  </script>
-</head>
-<body class="bg-white text-slate-800 dark:bg-slate-950 dark:text-slate-100 font-sans">
+<h1 align="center">Hi 👋, I'm Nagireddy Ramesh Kumar Reddy</h1>
+<h3 align="center">An enthusiastic Python Developer & aspiring Frontend Developer from India</h3>
 
-  <!-- Hero -->
-  <section id="home" class="py-20 px-6 max-w-5xl mx-auto">
-    <h1 class="text-4xl font-extrabold">Hi, I'm <span class="text-brand-600">NAGIREDDY RAMESH KUMAR REDDY</span></h1>
-    <p class="mt-4 text-lg">Enthusiastic and dedicated Python Developer with foundational knowledge in web development technologies including HTML and CSS. Passionate about continuous learning and growth within the tech industry.</p>
-    <div class="mt-6 flex gap-4">
-      <a href="#projects" class="px-5 py-3 rounded-xl bg-brand-600 text-white font-medium hover:bg-brand-700">View Projects</a>
-      <a href="#contact" class="px-5 py-3 rounded-xl border border-slate-300 font-medium hover:shadow-soft">Contact Me</a>
-    </div>
-  </section>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rameshr111&label=Profile%20views&color=0e75b6&style=flat" alt="rameshr111" />
+</p>
 
-  <!-- Skills -->
-  <section id="skills" class="py-16 px-6 max-w-5xl mx-auto border-t">
-    <h2 class="text-3xl font-bold">Skills</h2>
-    <div class="mt-6 grid md:grid-cols-2 gap-6">
-      <div>
-        <h3 class="font-semibold">Technical</h3>
-        <ul class="mt-3 space-y-2 text-slate-700 dark:text-slate-300">
-          <li>Python,HTML</li>
-           </ul>
-      </div>
-      <div>
-          <h3 class="font-semibold">Tools</h3>
-          <li> Notepad++, VS Code, Power BI,MS Excel</li>
-        </ul>
-      </div>
-      <div>
-        <h3 class="font-semibold">Languages Known</h3>
-        <ul class="mt-3 space-y-2 text-slate-700 dark:text-slate-300">
-          <li>English</li>
-          <li>Telugu</li>
-          <li>Hindi</li>
-        </ul>
-      </div>
-    </div>
-  </section>
+---
 
-  <!-- Projects -->
-  <section id="projects" class="py-16 px-6 max-w-5xl mx-auto border-t">
-    <h2 class="text-3xl font-bold">Projects</h2>
-    <div class="mt-6 grid md:grid-cols-2 gap-6">
-      <div class="p-6 rounded-xl border hover:shadow-soft">
-        <h3 class="font-semibold text-xl">Real-Time Drowsiness Detection System for Drivers</h3>
-        <p class="mt-2 text-slate-700 dark:text-slate-300">Developed a system using computer vision algorithms to detect driver drowsiness by measuring forward head tilt angle and eye aspect ratio and alerting drivers to prevent accidents.
-      </div>
-    </div>
-  </section>
+## 🚀 About Me
+- 🎓 Pursuing **B.Tech in ECE** at Sri Venkateswara College Of Engineering & Technology (2022 – 2026) with **8.33 CGPA**  
+- 💻 Skilled in **Python, HTML, CSS** with interest in frontend development and data visualization  
+- 🛠 Experienced with tools: **VS Code, Notepad++, Spyder, Power BI, MS Excel**  
+- 🧠 Passionate about **problem-solving, public speaking, and continuous learning**  
+- 🌱 Currently exploring **web development & computer vision projects**  
+- ⚡ Fun fact: I love working on real-world tech problems that create impact  
 
-  <!-- Education -->
-  <section id="education" class="py-16 px-6 max-w-5xl mx-auto border-t">
-    <h2 class="text-3xl font-bold">Education</h2>
-    <ul class="mt-6 space-y-4">
-      <li>
-        <p class="font-semibold">B.Tech in ECE — Sri Venkateswara College Of Engineering & Technology</p>
-        <p class="text-slate-600 dark:text-slate-300">2022 – 2026 </p>
-         <p class="text-slate-600 dark:text-slate-300"> CGPA 8.33</p>
-      </li>
-      <li>
-        <p class="font-semibold">Intermediate — BJSR Jr College</p>
-        <p class="text-slate-600 dark:text-slate-300">2020 – 2022 </p>
-         <p class="text-slate-600 dark:text-slate-300">87% </p>
-      </li>
-      <li>
-        <p class="font-semibold">SSC — Keshava Reddy EMHS</p>
-        <p class="text-slate-600 dark:text-slate-300">2019 – 2020 </p>
-        <p class="text-slate-600 dark:text-slate-300">94%</p>
-      </li>
-    </ul>
-  </section>
+---
 
-  <!-- Contact -->
-  <section id="contact" class="py-16 px-6 max-w-5xl mx-auto border-t">
-    <h2 class="text-3xl font-bold">Contact</h2>
-    <p class="mt-4">Feel free to reach out to me for collaborations, opportunities, or just to connect.</p>
-    <ul class="mt-6 space-y-2">
-      <li><strong>Email:</strong> <a href="mailto:nagireddyr112@gmail.com" class="text-brand-600 hover:underline">nagireddyr112@gmail.com</a></li>
-      <li><strong>Phone:</strong> +91 8074973074</li>
-      <li><strong>Location:</strong> Kadapa, Andhra Pradesh</li>
-    </ul>
-  </section>
+## 🛠️ Skills
 
-  <footer class="py-6 text-center border-t">
-    <p>© <span id="year"></span> NAGIREDDY RAMESH KUMAR REDDY. All rights reserved.</p>
-  </footer>
+### 🔹 Programming & Web
+- Python  
+- HTML, CSS  
 
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
-</body>
-</html>
+### 🔹 Tools
+- Notepad++  
+- VS Code  
+- Spyder  
+- Power BI  
+- MS Excel  
+
+### 🔹 Languages Known
+- English  
+- Telugu  
+- Hindi  
+
+---
+
+## 📂 Projects
+
+### 💤 Real-Time Drowsiness Detection System for Drivers
+- Developed a system using **computer vision algorithms**  
+- Detects drowsiness by measuring **forward head tilt angle** and **eye aspect ratio**  
+- Alerts drivers in real-time to prevent accidents  
+- **Tech Stack**: Python, Computer Vision  
+
+---
+
+## 🎓 Education
+- 🎓 **B.Tech in ECE** — Sri Venkateswara College Of Engineering & Technology  
+  *2022 – 2026 | CGPA: 8.33 | Chittoor*  
+
+- 🏫 **Intermediate** — BJSR Jr College  
+  *2020 – 2022 | 87% | Badvel*  
+
+- 🏫 **SSC** — Keshava Reddy EMHS  
+  *2019 – 2020 | 94% | Nandyala*  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rameshr111&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshr111&theme=tokyonight" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshr111&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 💻 Languages and Tools
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/> 
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="ms excel" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+## 📬 Contact
+- 📧 **Email**: [nagireddyr112@gmail.com](mailto:nagireddyr112@gmail.com)  
+- 🌍 **Location**: Kadapa, Andhra Pradesh  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect and collaborate with me.*
